@@ -34,7 +34,7 @@ The IMM project contains a set of libraries, binaries and extra files. You&#39;l
 | --- | --- |--- |
 |libImmExporter/ | library| Exporting a scene graph into IMM |
 |libImmImporter/ | library| Reading an IMM file into memory |
-|libImmPlayer/ | library| Reference player capable of plating IMM files (GL and DX renderers) |
+|libImmPlayer/ | library| Reference player capable of playing IMM files (GL and DX renderers) |
 |libCore/ | library| OS services, containers, Rendering, Sound, etc |
 |appImmViewer/ | binary | An native IMM player for Windows, base on libImmPlayer |
 |appImmUnity/ | binary | A Unity IMM player plugin, based on libImmPlayer |
